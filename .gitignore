@@ -1,0 +1,8 @@
+#ignorer le fichier index.php
+index.php
+
+#ignorer tous les fichiers avec l'extension .env
+*.env
+
+#ignorer tous les documents présents dans le fichier utils
+/utils
